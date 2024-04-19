@@ -1,4 +1,4 @@
-# Projeto da Faculdade - Nome do Projeto
+# Projeto da Faculdade - Fazenda Urbana
 
 ## Descrição
 Este projeto foi desenvolvido como parte do curso de Analise de Desenvolvimento de Sistemas da Universidade Paulista. O objetivo principal do projeto é......
