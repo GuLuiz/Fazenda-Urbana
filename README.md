@@ -14,6 +14,9 @@ O projeto tem como objetivo não apenas demonstrar as habilidades e conhecimento
 - ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 - ![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 - ![Asta Badge](https://img.shields.io/badge/-Asta-004B87?style=flat-square)
+- [![Markdown Badge](https://img.shields.io/badge/Markdown-Yes-green)](https://www.markdownguide.org/)
+- [![Git Badge](https://img.shields.io/badge/Git-Yes-green)](https://git-scm.com/)
+
 
 
 ## Estrutura de Pastas
