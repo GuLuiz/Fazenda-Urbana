@@ -1,10 +1,19 @@
-# Projeto da Faculdade - Fazenda Urbana
+# Projeto da Faculdade - Fazenda Urbana ![MIT License Badge](https://img.shields.io/badge/License-MIT-blue.svg)
+
+
 
 ## Descrição
-Este projeto foi desenvolvido como parte do curso de Analise de Desenvolvimento de Sistemas da Universidade Paulista. O objetivo principal do projeto é......
+Este projeto foi desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas da Universidade Paulista. O objetivo principal do projeto é criar um sistema para uma startup fictícia de fazenda urbana, como parte do Projeto Integrado Multidisciplinar (PIM) da UNIP.
+O projeto tem como objetivo não apenas demonstrar as habilidades e conhecimentos adquiridos ao longo do curso de Análise e Desenvolvimento de Sistemas, mas também promover o desenvolvimento de uma solução tecnológica eficaz e inovadora para uma startup fictícia.
 
 ## Tecnologias Utilizadas
-- ... ... ... ...
+
+- ![Metodologia Ágil Badge](https://img.shields.io/badge/-Metodologia%20%C3%81gil-008B8B?style=flat-square)
+- ![Scrum Badge](https://img.shields.io/badge/-Scrum-5849BE?style=flat-square&logo=scrum&logoColor=white)
+- ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- ![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- ![Asta Badge](https://img.shields.io/badge/-Asta-004B87?style=flat-square)
+
 
 ## Estrutura de Pastas
 - **/docs**: Contém a documentação do projeto.
@@ -23,21 +32,14 @@ Este projeto foi desenvolvido como parte do curso de Analise de Desenvolvimento 
 A documentação completa do projeto pode ser encontrada na pasta `/docs`. [Adicione mais informações sobre a documentação, se necessário]
 
 ## Sprints
-- [Sprint 1](link-para-a-pasta-da-sprint-1)
-- [Sprint 2](link-para-a-pasta-da-sprint-2)
-- [Sprint 3](link-para-a-pasta-da-sprint-3)
-- [Sprint 4](link-para-a-pasta-da-sprint-4)
-- [Sprint 5](link-para-a-pasta-da-sprint-5)
-- [Sprint 6](link-para-a-pasta-da-sprint-6)
-- [Sprint 7](link-para-a-pasta-da-sprint-7)
-- [Sprint 8](link-para-a-pasta-da-sprint-8)
+- [Sprint 1](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20I)
+- [Sprint 2](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20II)
+- [Sprint 3](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20III)
+- [Sprint 4](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20IV)
+- [Sprint 5](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20V)
+- [Sprint 6](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20VI)
+- [Sprint 7](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20VII)
 
-## Contribuição
-Contribuições são bem-vindas! Por favor, veja as [diretrizes de contribuição](link-para-as-diretrizes-de-contribuição) antes de enviar uma solicitação pull.
 
-## Autores
-- [Nome do Autor 1](link-para-o-perfil-do-autor-1)
-- [Nome do Autor 2](link-para-o-perfil-do-autor-2)
 
-## Licença
-Este projeto está licenciado sob a [Licença XYZ](link-para-a-licença).
+
