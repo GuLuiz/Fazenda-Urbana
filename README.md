@@ -30,13 +30,14 @@ A documentação completa do projeto pode ser encontrada na pasta `/docs`.
 As pastas das Sprints completa do projeto pode ser encontrada na pasta `/docs/Sprints`.
 
 ### Sprints
-- [Sprint 1](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20I)
-- [Sprint 2](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20II)
-- [Sprint 3](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20III)
-- [Sprint 4](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20IV)
-- [Sprint 5](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20V)
-- [Sprint 6](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20VI)
-- [Sprint 7](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20VII)
+- [Sprint 1](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20I) 📅
+- [Sprint 2](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20II) ⏱️
+- [Sprint 3](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20III) 📝
+- [Sprint 4](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20IV) ✅
+- [Sprint 5](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20V) 🔄
+- [Sprint 6](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20VI) 📊
+- [Sprint 7](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20VII) 🚀
+
 
 
 
