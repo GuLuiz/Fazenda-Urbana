@@ -4,6 +4,7 @@
 
 ## Descrição
 Este projeto foi desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas da Universidade Paulista. O objetivo principal do projeto é criar um sistema para uma startup fictícia de fazenda urbana, como parte do Projeto Integrado Multidisciplinar (PIM) da UNIP.
+
 O projeto tem como objetivo não apenas demonstrar as habilidades e conhecimentos adquiridos ao longo do curso de Análise e Desenvolvimento de Sistemas, mas também promover o desenvolvimento de uma solução tecnológica eficaz e inovadora para uma startup fictícia.
 
 ## Tecnologias Utilizadas
@@ -18,20 +19,17 @@ O projeto tem como objetivo não apenas demonstrar as habilidades e conhecimento
 ## Estrutura de Pastas
 - **/docs**: Contém a documentação do projeto.
 - **/src**: Contém o código-fonte do projeto.
-- **/sprints**: Contém as pastas das sprints do projeto.
+- **docs/sprints**: Contém as pastas das sprints do projeto.
 
 ## Instalação
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-projeto.git`
-2. Navegue até o diretório do projeto: `cd nome-do-projeto`
-3. Instale as dependências: [Instruções para instalar as dependências, se aplicável]
-
-## Como Executar
-[Instruções para executar o projeto localmente, se aplicável]
+1. Clone o repositório: `git clone https://github.com/GuLuiz/Fazenda-Urbana.git`
+2. Navegue até o diretório do projeto: `cd Fazenda-Urbana`
 
 ## Documentação
-A documentação completa do projeto pode ser encontrada na pasta `/docs`. [Adicione mais informações sobre a documentação, se necessário]
+A documentação completa do projeto pode ser encontrada na pasta `/docs`.
+As pastas das Sprints completa do projeto pode ser encontrada na pasta `/docs/Sprints`.
 
-## Sprints
+### Sprints
 - [Sprint 1](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20I)
 - [Sprint 2](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20II)
 - [Sprint 3](https://github.com/GuLuiz/Fazenda-Urbana/tree/main/Docs/Sprints/Sprint%20III)
