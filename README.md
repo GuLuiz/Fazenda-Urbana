@@ -31,6 +31,7 @@ O projeto tem como objetivo não apenas demonstrar as habilidades e conhecimento
 
 ## Documentação
 A documentação completa do projeto pode ser encontrada na pasta `/docs`.
+
 As pastas das Sprints completa do projeto pode ser encontrada na pasta `/docs/Sprints`.
 
 ### Sprints
