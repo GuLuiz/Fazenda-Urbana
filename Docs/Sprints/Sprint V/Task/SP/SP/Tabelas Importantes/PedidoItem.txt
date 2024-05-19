@@ -1,0 +1,9 @@
+
+-- Criação da Tabela de Pedidos/Produto
+CREATE TABLE Pedidos_Produto (
+    pedido_item_id INT IDENTITY(1,1) PRIMARY KEY,
+    produto_final_id INT,
+    pedido_id INT,
+    FOREIGN KEY (produto_final_id) REFERENCES Produto_Final(produto_final_id),
+    FOREIGN KEY (pedido_id) REFERENCES Pedido(pedido_id)
+);

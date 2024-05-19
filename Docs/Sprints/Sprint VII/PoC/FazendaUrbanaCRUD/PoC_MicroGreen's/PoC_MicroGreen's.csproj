@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>PoC_MicroGreen_s</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="FazendaUrbanaDLL">
+      <HintPath>..\..\FazendaUrbanaDLL\obj\Debug\net8.0\FazendaUrbanaDLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

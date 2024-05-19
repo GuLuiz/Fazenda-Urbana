@@ -1,0 +1,9 @@
+-- Criação da Tabela de Log de Alterações do Cliente
+CREATE TABLE LogAlteracoesCliente (
+    LogId INT PRIMARY KEY IDENTITY,
+    Tabela VARCHAR(50),
+    Acao VARCHAR(10),
+    Descricao VARCHAR(100),
+    DataHora DATETIME,
+  
+);

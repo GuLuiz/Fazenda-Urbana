@@ -1,0 +1,27 @@
+CREATE PROCEDURE GetPedidoDetalhes
+    @pedido_id INT
+AS
+BEGIN
+    SELECT 
+        P.pedido_id,
+        P.quantidade AS quantidade_pedido,
+        P.ativo,
+        C.nome AS nome_cliente,
+        F.nome AS nome_funcionario,
+        PF.nome AS nome_produto,
+        PF.tipo AS descricao_produto,
+        PF.imagem_id
+    FROM 
+        Pedido P
+    JOIN 
+        Cliente C ON P.cliente_id = C.cliente_Id
+    JOIN 
+        Funcionarios F ON P.funcionario_id = F.func_id
+    JOIN 
+        Pedidos_Produto PP ON P.pedido_id = PP.pedido_id
+    JOIN 
+        Produto_Final PF ON PP.produto_final_id = PF.produto_final_id
+    WHERE 
+        P.pedido_id = @pedido_id;
+END;
+GO

@@ -1,0 +1,10 @@
+-- Criação da Tabela de Matéria-Prima
+CREATE TABLE Materia_Prima (
+    materia_prima_ID INT IDENTITY(1,1) PRIMARY KEY,
+    Tipo VARCHAR(50),
+    ativo BIT,
+    nome VARCHAR(100),
+    imagem_Id INT,
+    fornecedor_ID INT,
+    FOREIGN KEY (fornecedor_ID) REFERENCES Fornecedores(fornecedor_ID)
+);

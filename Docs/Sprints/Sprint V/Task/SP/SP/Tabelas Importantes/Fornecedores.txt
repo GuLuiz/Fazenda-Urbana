@@ -1,0 +1,13 @@
+CREATE TABLE Fornecedores (
+    fornecedor_ID INT IDENTITY(1,1) PRIMARY KEY,
+    cnpj VARCHAR(20),
+    razao_social VARCHAR(100),
+    ativo BIT,
+    cidade VARCHAR(100),
+    estado VARCHAR(50),
+    pais VARCHAR(50),
+    inscricao_estadual VARCHAR(50),
+    contatos_principal VARCHAR(100)
+);
+
+IDENTITY(1,1), gera valores automáticos crescentes para a coluna de chave primária.

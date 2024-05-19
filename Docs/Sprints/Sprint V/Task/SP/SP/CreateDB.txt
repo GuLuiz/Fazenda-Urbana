@@ -1,0 +1,26 @@
+-- Criação do Banco de Dados
+CREATE DATABASE MicroGreenDB;
+
+-- Utilização do Banco de Dados
+USE MicroGreenDB;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

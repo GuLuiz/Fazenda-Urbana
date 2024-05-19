@@ -1,0 +1,12 @@
+-- Criação da Tabela de Produção
+CREATE TABLE Producao (
+    producao_id INT IDENTITY(1,1) PRIMARY KEY,
+    quantidade INT,
+    tempo_cultivacao INT,
+    ativo BIT,
+    dias_restantes INT,
+    materia_prima_id INT,
+    funcionario_id INT,
+    FOREIGN KEY (materia_prima_id) REFERENCES Materia_Prima(materia_prima_ID),
+    FOREIGN KEY (funcionario_id) REFERENCES Funcionarios(func_id)
+);

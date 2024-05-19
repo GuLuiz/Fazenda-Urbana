@@ -1,0 +1,8 @@
+-- Criação da Tabela de Produto Final
+CREATE TABLE Produto_Final (
+    produto_final_id INT IDENTITY(1,1) PRIMARY KEY,
+    tipo VARCHAR(50),
+    nome VARCHAR(100),
+    imagem_id INT,
+FOREIGN KEY (imagem_id) REFERENCES Imagem(imagem_id)
+);

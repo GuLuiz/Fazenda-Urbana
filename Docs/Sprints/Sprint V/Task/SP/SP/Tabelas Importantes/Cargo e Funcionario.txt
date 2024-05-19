@@ -1,0 +1,18 @@
+CREATE TABLE Cargo (
+    cargo_id INT IDENTITY(1,1) PRIMARY KEY,
+    nome_da_funcao VARCHAR(100)
+);
+
+
+CREATE TABLE Funcionarios (
+    func_id INT IDENTITY(1,1) PRIMARY KEY,
+    senha VARCHAR(50),
+    email VARCHAR(100),
+    ativo BIT,
+    imagem_id INT,
+    cargo_ID INT,
+    nome VARCHAR(100),
+    cpf VARCHAR(20),
+    FOREIGN KEY (cargo_ID) REFERENCES Cargo(cargo_id),
+    FOREIGN KEY (imagem_id) REFERENCES Imagem(imagem_id)
+);
