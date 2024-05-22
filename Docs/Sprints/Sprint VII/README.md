@@ -1,39 +1,29 @@
-# Documentação do Proof of Concept (PoC)
+# Sprint VII - Finalização do Projeto
 
-## 1. Introdução
-Este documento descreve o Proof of Concept (PoC) desenvolvido para demonstrar a implementação básica de um sistema de gerenciamento de fazenda urbana. O PoC inclui funcionalidades para gerenciar fornecedores, matéria-prima, produção e visualização de detalhes de pedidos.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=643B9F&height=120&section=header"/>
 
-## 2. Requisitos
-- Microsoft .NET Framework 4.7.2 ou superior
-- Acesso a um banco de dados Microsoft SQL Server
+## Visão Geral
 
-## 3. Instalação
-1. Clone ou faça o download do repositório.
-2. Abra o projeto em seu ambiente de desenvolvimento preferido.
-3. Configure a conexão com o banco de dados no arquivo de configuração, se aplicável.
-4. Compile e execute o projeto.
+A Sprint VII foi dedicada à finalização de todas as entregas do projeto. Durante esta sprint, concluímos a implementação do banco de dados, desenvolvemos um Proof of Concept (PoC), criamos o manual de usuário e finalizamos a documentação do Projeto Integrado Multidisciplinar (PIM). Todas essas entregas são fundamentais para o encerramento bem-sucedido do projeto.
 
-## 4. Utilização
-- Ao iniciar o aplicativo, você será apresentado a um menu principal com opções para acessar diferentes funcionalidades.
-- Escolha uma das opções para interagir com o sistema:
-  - **Fornecedores**: Inserir, listar, atualizar ou deletar fornecedores.
-  - **Matéria-Prima**: Inserir, listar, atualizar ou deletar matéria-prima.
-  - **Produção**: Inserir, listar, atualizar ou deletar produções.
-  - **Detalhes de um Pedido**: Visualizar detalhes de um pedido específico.
-  - **Sair**: Encerra o programa.
-- Siga as instruções apresentadas no console para cada opção selecionada.
+## Entregas da Sprint
 
-## 5. Limitações
-- Este PoC é uma implementação básica e pode não incluir todas as funcionalidades de um sistema de gerenciamento completo.
-- Não há suporte para autenticação de usuário ou controle de acesso.
-- A interface do console pode ser limitada em termos de usabilidade e experiência do usuário.
+- **Banco de Dados**: Estrutura completa do banco de dados implementada e testada.
+- **Proof of Concept (PoC)**: Demonstração funcional das principais funcionalidades do sistema.
+- **Manual de Usuário**: Acesse o manual completo através do [link](https://manual-micro-greens.netlify.app/), Não foi feito uma versão responsiva para mobile , apenas para desktop.
+- **Documentação do PIM**: Documentação completa disponível no repositório.
 
-## 6. Exemplos
-```csharp
-// Exemplo de inserção de fornecedor
-FornecedorRepositorio fornecedorRepo = new FornecedorRepositorio();
-fornecedorRepo.InserirFornecedor();
+## Tarefas Concluídas
 
-// Exemplo de listagem de matéria-prima
-MateriaPrimaRepositorio materiaPrimaRepo = new MateriaPrimaRepositorio();
-materiaPrimaRepo.ListarMateriasPrimas();
+- **Implementação do Banco de Dados**: [Scripts SQL](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VII/Task/BancoDeDados.sql)
+- **Desenvolvimento do PoC**: [Código Fonte](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VII/Task/PoC)
+- **Manual de Usuário**: [Acessar Manual](https://manual-micro-greens.netlify.app/)
+- **Documentação do PIM**: [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VII/Task/DocumentacaoPIM.pdf)
+
+## Conclusão
+
+A Sprint VII marcou a conclusão de todas as atividades planejadas para o projeto. A equipe trabalhou intensamente para assegurar que todas as entregas fossem concluídas com sucesso e qualidade. Agora, com o projeto finalizado, estamos confiantes de que atingimos todos os objetivos estabelecidos e entregamos um produto de alta qualidade.
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=643B9F&height=120&section=footer"/>
