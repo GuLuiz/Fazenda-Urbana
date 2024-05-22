@@ -1,30 +1,23 @@
-# Sprint IV - Finalização de Tarefas Pendentes
+# BurnDown Chart Sprint V
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=643B9F&height=120&section=header"/>
 
-## Visão Geral
+![BurnDownIMG](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20V/img/Burndown-Sprint%20V.jpeg)
 
-Esta Sprint teve como principal objetivo finalizar todas as tarefas que ficaram pendentes ao longo das sprints anteriores. Focamos em garantir que todas as funcionalidades planejadas fossem implementadas, testadas e entregues conforme esperado. A conclusão dessas tarefas era essencial para assegurar que nosso projeto estivesse alinhado com os objetivos estabelecidos inicialmente.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=643B9F&height=120&section=footer"/>
 
-## Objetivos da Sprint
+# Tasks Sprint V
 
-- **Finalizar Tarefas Pendentes**: Revisar todas as tarefas das sprints anteriores e assegurar que cada uma fosse completada.
-- **Correção de Bugs**: Identificar e corrigir bugs que impediram o progresso de algumas funcionalidades.
-- **Aprimoramento de Funcionalidades**: Refinar e melhorar funcionalidades já desenvolvidas, garantindo que todas estivessem funcionando conforme o esperado.
-- **Teste e Validação**: Realizar testes rigorosos para validar a integridade e a funcionalidade das tarefas concluídas.
+- ## Regra de Negócio da start-Up : [Vizualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20IV/Task/Principios%20da%20ODS%20e%20sua%20rela%C3%A7%C3%A3o%20com%20o%20ESG.pdf)
+- ## Diagrama de Entidade Relacionamento : [Vizualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20V/Task/Diagrama%20ER.pdf)
+- ## Ciclo de Vida de Softaware : [Vizualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20V/Task/Ciclo%20de%20vida%20de%20software.pdf)
+- ## Diagrama de Implementação : [Vizualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20V/Task/diagrama%20de%20implementa%C3%A7%C3%A3o%20dege.pdf)
+- ## Scripts SQL : [Arquivo .Zip](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20V/Task/SP%20(2).zip)
+- 
+# Pasaddas para a prox Sprint : 
+- ## Manual do Usuario : Foi passado para a Prox Sprint....
+- ## Requisitos do usuário e do sistema : Foi passado para a Prox Sprint....
+- ## Dicionario de Dados: Foi passado para a Prox Sprint....
+- ## Diagrama de Sequencia: Foi passado para a Prox Sprint....
 
-## Tarefas Concluídas
-
-Durante esta sprint, as seguintes tarefas foram finalizadas:
-
-- ## Analise e crescimento da Pink Farm: [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VI/AnaliseCrescimentoMercadoPinkFarm.pdf)
-- ## Planilha de teste : [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VI/PLANILHA%20DE%20TESTES%20-%20Planilha1.pdf)
-- ## Requisitos : [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VI/Requisitos.docx)
-- ## Diagrama de Implementação : [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20V/Task/diagrama%20de%20implementa%C3%A7%C3%A3o%20dege.pdf)
-
-## Desafios Enfrentados
-
-- **Gestão de Tempo**: Distribuir o tempo adequadamente para garantir a conclusão de todas as tarefas pendentes.
-- **Complexidade das Tarefas**: Algumas tarefas exigiram mais tempo e esforço do que o inicialmente previsto, devido à sua complexidade.
-
-## Conclusão
-
-A Sprint IV foi crucial para garantir que todas as pendências fossem resolvidas e que o projeto estivesse em um estado estável e funcional. A dedicação da equipe em finalizar essas tarefas refletiu-se na qualidade do produto final. Agora, com todas as pendências resolvidas, estamos prontos para avançar para as próximas fases do projeto.
+# Change Log :
+- ## Houve mudanças no protótipo de telas e sera finalizado na prox Sprint
