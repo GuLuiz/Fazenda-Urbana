@@ -1,4 +1,4 @@
-# Sprint IV - Finalização de Tarefas Pendentes
+# Sprint VI - Finalização de Tarefas Pendentes
 
 ## Visão Geral
 
@@ -27,4 +27,4 @@ Durante esta sprint, as seguintes tarefas foram finalizadas:
 
 ## Conclusão
 
-A Sprint IV foi crucial para garantir que todas as pendências fossem resolvidas e que o projeto estivesse em um estado estável e funcional. A dedicação da equipe em finalizar essas tarefas refletiu-se na qualidade do produto final. Agora, com todas as pendências resolvidas, estamos prontos para avançar para as próximas fases do projeto.
+A Sprint VI foi crucial para garantir que todas as pendências fossem resolvidas e que o projeto estivesse em um estado estável e funcional. A dedicação da equipe em finalizar essas tarefas refletiu-se na qualidade do produto final. Agora, com todas as pendências resolvidas, estamos prontos para avançar para as próximas fases do projeto.
