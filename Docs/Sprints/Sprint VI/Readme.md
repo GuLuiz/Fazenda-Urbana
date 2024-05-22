@@ -18,7 +18,10 @@ Durante esta sprint, as seguintes tarefas foram finalizadas:
 - ## Analise e crescimento da Pink Farm: [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VI/AnaliseCrescimentoMercadoPinkFarm.pdf)
 - ## Planilha de teste : [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VI/PLANILHA%20DE%20TESTES%20-%20Planilha1.pdf)
 - ## Requisitos : [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VI/Requisitos.docx)
-- ## Diagrama de Implementação : [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20V/Task/diagrama%20de%20implementa%C3%A7%C3%A3o%20dege.pdf)
+- ## Diagrama Sequenciais :
+- [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VI/DiagramaClasseRegCliente.pdf)
+- [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VI/DiagramaCompras.pdf)
+- [Visualizar PDF](https://github.com/GuLuiz/Fazenda-Urbana/blob/main/Docs/Sprints/Sprint%20VI/DiagramaLoginUser.pdf)
 
 ## Desafios Enfrentados
 
